@@ -1,8 +1,8 @@
 # InterviewCracker
 
-![Screenshot](media/screenshot.png)
+![Screenshot](https://github.com/tulsidas-telange/Interview-Cracker/blob/main/IMG-20261012-WA0000.jpg)
 
-[Watch the demo video](media/demo.mp4)
+[Watch the demo video](https://github.com/tulsidas-telange/Interview-Cracker/blob/main/VID-20261010-WA0000.mp4)
 
 ## Features
 
