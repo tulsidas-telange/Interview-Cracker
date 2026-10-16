@@ -21,8 +21,8 @@
 
 | Plan | Access | Contact |
 |---|---|---|
-| **Demo** | 2 days | xyz.demo@gmail.com |
-| **Paid** | Unlimited | xyz.paid@gmail.com |
+| **Demo** | 2 days | adityatelange262@gmail.com |
+| **Paid** | Unlimited | tulsidastelange7@gmail.com |
 
 ## How to get it
 
